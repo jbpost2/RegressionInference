@@ -1,0 +1,13 @@
+name: regressioninference
+title: RegressionInference
+username: jbpost2@ncsu.edu
+account: jbpost2@ncsu.edu
+server: shiny.stat.ncsu.edu
+hostUrl: https://shiny.stat.ncsu.edu/__api__
+appId: 54
+bundleId: 76
+url: https://shiny.stat.ncsu.edu/content/46f8bfc0-e434-4f0f-8968-f9c25b6fc724/
+when: 1674243754.42128
+lastSyncTime: 1674243754.42129
+asMultiple: FALSE
+asStatic: FALSE
